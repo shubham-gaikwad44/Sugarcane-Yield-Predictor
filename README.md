@@ -16,7 +16,7 @@ Using data like the field's area, soil type, irrigation method, and climate cond
 
 ## 🛠️ Project Structure
 ```text
-AI_Sugarcane_advisor/
+Sugarcane-Yield-Predictor/
 │
 ├── app.py                      # Main Streamlit web application
 ├── requirements.txt            # Python dependencies
@@ -49,8 +49,8 @@ Make sure you have Python 3.8+ installed on your computer.
 ### 2. Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/AI_Sugarcane_advisor.git
-cd AI_Sugarcane_advisor
+git clone https://github.com/shubham-gaikwad44/Sugarcane-Yield-Predictor.git
+cd Sugarcane-Yield-Predictor
 ```
 
 Install the required dependencies:
