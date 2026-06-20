@@ -1,0 +1,1001 @@
+State,Area_Acres,Rainfall_mm,Temperature_C,Soil_Type,Irrigation_Type,Crop_Age_Months,Fertilizer_Used_kg,Yield_tons_per_acre
+Tamil Nadu,46.67,2017.7,21.3,Laterite,Sprinkler,10,5860.0,35.0
+Bihar,28.69,922.5,31.2,Laterite,Sprinkler,16,6209.88,30.31
+Karnataka,35.14,921.1,37.7,Laterite,Sprinkler,12,5621.52,20.04
+Bihar,46.2,820.6,23.4,Red,Sprinkler,17,4937.89,25.65
+Bihar,35.65,2426.1,34.3,Black,Sprinkler,13,8092.05,43.98
+Uttar Pradesh,8.47,2053.8,36.3,Alluvial,Drip,13,2302.03,45.77
+Karnataka,29.24,1400.5,37.0,Red,Drip,14,4940.21,30.88
+Karnataka,30.73,1304.1,37.3,Laterite,Sprinkler,15,5471.76,27.2
+Karnataka,21.78,1394.5,29.4,Red,Flood,16,6059.29,34.14
+Bihar,37.09,2116.9,37.6,Laterite,Flood,13,9744.35,36.05
+Tamil Nadu,46.78,1924.3,33.6,Alluvial,Sprinkler,17,11367.1,46.71
+Karnataka,46.35,1114.8,22.9,Alluvial,Drip,15,6941.35,42.13
+Bihar,23.09,1096.0,28.6,Black,Flood,10,6512.38,43.65
+Uttar Pradesh,6.55,967.3,32.9,Laterite,Flood,10,857.28,28.6
+Tamil Nadu,49.26,1922.5,24.5,Black,Flood,18,11100.94,35.48
+Uttar Pradesh,42.11,2099.4,31.5,Black,Sprinkler,15,4453.56,41.7
+Tamil Nadu,7.11,1250.6,32.0,Alluvial,Flood,17,1626.37,34.88
+Bihar,46.12,835.6,22.9,Red,Flood,16,7168.38,30.44
+Maharashtra,43.62,939.7,30.2,Red,Flood,15,8284.98,24.16
+Tamil Nadu,26.42,2445.4,33.9,Black,Flood,13,4466.38,41.8
+Uttar Pradesh,29.97,1302.3,29.0,Alluvial,Drip,16,4032.5,40.61
+Bihar,20.55,2107.7,20.2,Laterite,Sprinkler,18,4611.34,38.69
+Tamil Nadu,3.68,1861.9,20.2,Red,Sprinkler,16,1017.13,42.07
+Maharashtra,17.42,1449.3,26.4,Black,Drip,10,5083.45,44.58
+Maharashtra,40.34,1149.7,36.7,Red,Drip,18,5585.85,28.64
+Karnataka,1.23,1006.4,24.1,Red,Sprinkler,13,299.47,35.11
+Karnataka,17.34,1845.5,31.4,Laterite,Flood,12,4037.93,40.74
+Uttar Pradesh,20.51,2116.9,24.0,Alluvial,Flood,13,3459.54,39.94
+Tamil Nadu,27.33,1894.6,25.8,Laterite,Sprinkler,13,2837.4,31.08
+Tamil Nadu,46.07,1701.5,35.3,Alluvial,Flood,11,10962.74,34.89
+Karnataka,17.97,871.3,33.1,Red,Drip,10,5195.11,37.63
+Tamil Nadu,18.0,2446.4,21.7,Black,Flood,10,4075.63,43.35
+Tamil Nadu,37.14,2157.8,27.7,Laterite,Flood,17,6947.35,36.41
+Maharashtra,23.16,1297.8,20.5,Alluvial,Flood,11,4748.51,31.26
+Karnataka,12.01,2465.9,28.7,Red,Sprinkler,14,1680.51,39.69
+Bihar,23.17,1823.2,31.9,Alluvial,Drip,13,5795.02,48.95
+Karnataka,7.9,1790.1,22.1,Alluvial,Flood,17,1969.34,36.19
+Bihar,9.64,2071.7,25.2,Alluvial,Sprinkler,11,1244.56,39.87
+Maharashtra,25.42,2180.0,27.2,Red,Flood,18,7005.64,41.43
+Uttar Pradesh,21.53,1916.0,36.6,Black,Drip,16,3312.13,35.61
+Tamil Nadu,45.83,1017.8,37.9,Black,Flood,16,13586.36,30.69
+Maharashtra,18.76,1375.1,20.8,Black,Drip,10,3312.65,42.67
+Tamil Nadu,29.45,2377.7,33.7,Alluvial,Flood,11,3992.74,35.35
+Uttar Pradesh,31.98,1181.8,26.7,Red,Drip,13,5447.6,35.47
+Uttar Pradesh,1.64,1432.7,27.1,Alluvial,Flood,13,308.38,34.72
+Maharashtra,33.51,1534.5,33.6,Black,Drip,12,3815.5,39.07
+Uttar Pradesh,9.72,1547.0,36.5,Black,Flood,16,2096.06,40.81
+Bihar,48.09,1842.0,37.1,Red,Flood,17,10557.03,32.16
+Uttar Pradesh,8.28,2403.2,30.4,Alluvial,Sprinkler,11,2051.67,47.33
+Tamil Nadu,21.32,1209.2,26.4,Laterite,Sprinkler,13,2256.38,28.96
+Tamil Nadu,5.18,1006.6,34.2,Laterite,Drip,12,1078.72,32.34
+Tamil Nadu,49.85,1135.7,24.5,Black,Flood,11,5512.49,37.22
+Tamil Nadu,25.61,2307.8,30.2,Red,Drip,15,6152.26,46.92
+Bihar,30.17,1897.9,26.5,Alluvial,Sprinkler,13,3353.26,47.12
+Karnataka,4.29,1286.0,31.8,Alluvial,Drip,15,1211.26,47.12
+Maharashtra,37.75,2187.1,24.3,Black,Drip,11,9075.72,48.32
+Tamil Nadu,11.29,2264.3,23.4,Black,Sprinkler,13,2274.69,43.83
+Uttar Pradesh,45.0,2239.1,36.5,Alluvial,Flood,15,8473.54,42.38
+Tamil Nadu,11.05,2362.2,21.8,Alluvial,Drip,14,1393.79,43.61
+Uttar Pradesh,10.34,1228.8,29.1,Black,Sprinkler,12,1635.79,43.67
+Uttar Pradesh,2.79,2083.6,24.0,Alluvial,Flood,17,763.88,48.72
+Tamil Nadu,24.13,1582.9,20.7,Laterite,Sprinkler,16,6777.89,33.67
+Bihar,28.68,2231.4,20.6,Black,Drip,12,2872.29,42.73
+Uttar Pradesh,4.22,2038.4,23.2,Alluvial,Flood,15,923.45,43.1
+Uttar Pradesh,39.0,2120.0,35.6,Black,Flood,13,9510.54,42.46
+Tamil Nadu,23.21,1915.5,25.1,Red,Sprinkler,14,5193.22,42.37
+Uttar Pradesh,26.7,1101.6,37.1,Black,Sprinkler,14,3106.17,27.02
+Uttar Pradesh,22.6,1726.5,30.5,Black,Sprinkler,16,3244.12,38.32
+Tamil Nadu,20.64,2473.9,27.9,Red,Flood,14,3097.4,39.98
+Tamil Nadu,28.42,2393.6,30.4,Laterite,Flood,12,7569.52,44.28
+Maharashtra,8.61,873.4,29.3,Alluvial,Drip,14,1658.63,36.47
+Bihar,9.91,1080.2,33.7,Red,Flood,16,1955.89,34.61
+Bihar,43.23,1023.9,25.1,Black,Drip,14,12406.09,45.97
+Uttar Pradesh,47.36,2034.2,26.4,Alluvial,Sprinkler,14,10770.48,48.41
+Bihar,19.29,2190.2,36.1,Red,Sprinkler,18,5396.06,36.46
+Uttar Pradesh,14.27,1163.0,37.0,Alluvial,Flood,12,2729.88,30.93
+Maharashtra,32.56,1659.9,36.1,Alluvial,Sprinkler,15,4229.13,35.47
+Tamil Nadu,21.03,2229.2,27.6,Red,Sprinkler,10,6014.31,46.6
+Tamil Nadu,2.24,2045.8,34.0,Alluvial,Flood,14,429.5,39.31
+Tamil Nadu,8.65,1721.8,28.6,Laterite,Drip,17,1179.22,38.31
+Bihar,36.08,1803.6,29.0,Red,Flood,14,5790.09,37.44
+Maharashtra,33.29,1664.2,23.7,Laterite,Drip,18,3667.24,38.15
+Bihar,2.33,1305.8,30.6,Black,Flood,15,451.23,34.27
+Bihar,11.88,1760.5,23.4,Alluvial,Flood,17,3215.03,44.84
+Maharashtra,12.32,1971.1,26.0,Black,Sprinkler,17,3532.34,49.97
+Maharashtra,33.92,2284.6,35.4,Black,Flood,12,9718.77,39.69
+Maharashtra,1.97,1881.7,23.7,Alluvial,Flood,16,246.34,37.95
+Maharashtra,6.1,2093.9,21.3,Red,Drip,16,1076.11,42.4
+Tamil Nadu,40.2,1072.1,21.2,Alluvial,Sprinkler,15,4246.96,27.66
+Karnataka,9.75,1584.6,36.9,Black,Drip,16,2642.57,41.84
+Karnataka,32.98,815.9,29.1,Black,Drip,11,5664.35,40.13
+Maharashtra,12.67,1219.4,27.4,Red,Sprinkler,18,2866.25,35.89
+Karnataka,5.87,2035.0,34.6,Alluvial,Sprinkler,10,1426.29,41.7
+Karnataka,12.92,2486.1,35.0,Black,Sprinkler,10,2402.72,41.29
+Maharashtra,36.39,968.6,26.0,Laterite,Flood,12,5869.29,33.37
+Karnataka,42.93,1482.5,32.5,Black,Sprinkler,12,12554.56,40.39
+Bihar,41.68,2160.1,33.9,Black,Sprinkler,10,12207.97,47.6
+Uttar Pradesh,20.46,1146.9,31.8,Red,Sprinkler,16,3230.37,27.81
+Uttar Pradesh,33.74,1743.6,22.7,Laterite,Drip,13,6610.51,36.81
+Maharashtra,11.04,2046.2,35.8,Black,Drip,11,3252.04,46.11
+Tamil Nadu,15.36,1847.2,29.7,Black,Flood,14,1550.96,38.37
+Maharashtra,44.92,1119.6,25.1,Laterite,Drip,15,8199.5,33.88
+Tamil Nadu,1.64,1404.2,27.7,Alluvial,Flood,18,196.95,34.99
+Uttar Pradesh,5.19,2132.4,20.7,Alluvial,Drip,13,1047.51,45.47
+Maharashtra,11.19,1742.2,22.3,Black,Sprinkler,11,1174.21,40.24
+Bihar,2.3,808.9,33.8,Black,Drip,14,417.17,36.61
+Karnataka,9.89,2093.7,20.0,Alluvial,Flood,12,1425.54,32.4
+Tamil Nadu,29.57,860.0,27.5,Red,Drip,11,6110.99,43.54
+Karnataka,21.65,2067.7,29.4,Laterite,Sprinkler,10,6477.65,39.82
+Karnataka,44.74,1144.2,21.0,Laterite,Flood,11,11637.2,24.89
+Maharashtra,41.05,2428.7,37.5,Red,Sprinkler,15,11047.72,33.21
+Karnataka,17.75,1425.5,24.1,Red,Sprinkler,17,4030.19,36.74
+Bihar,13.71,1355.8,25.5,Red,Flood,12,1484.96,30.93
+Karnataka,19.6,1053.1,25.5,Red,Sprinkler,18,2770.65,35.85
+Maharashtra,29.92,1319.5,24.1,Red,Sprinkler,18,8527.59,39.38
+Bihar,14.14,2290.3,20.0,Red,Drip,11,2449.37,40.61
+Uttar Pradesh,31.58,2493.8,33.1,Laterite,Sprinkler,17,3812.57,35.89
+Karnataka,21.06,1426.1,37.4,Red,Sprinkler,14,5064.53,35.78
+Maharashtra,28.05,1562.6,24.0,Alluvial,Sprinkler,13,4484.96,43.77
+Uttar Pradesh,22.37,2027.5,31.9,Red,Sprinkler,14,3439.87,40.89
+Uttar Pradesh,15.43,2306.5,33.4,Red,Flood,13,4622.76,39.32
+Tamil Nadu,47.47,1808.2,35.3,Laterite,Drip,17,12894.17,40.7
+Bihar,38.42,1465.6,27.6,Laterite,Sprinkler,13,6976.59,34.91
+Karnataka,7.87,1501.5,25.5,Red,Sprinkler,15,2329.93,36.78
+Maharashtra,43.55,1982.6,25.9,Laterite,Flood,11,10017.49,34.62
+Tamil Nadu,24.88,805.5,32.8,Black,Sprinkler,14,6180.3,35.57
+Bihar,44.83,1853.3,34.7,Laterite,Flood,15,4765.55,29.46
+Tamil Nadu,40.19,1404.3,23.3,Laterite,Drip,14,4996.46,39.78
+Bihar,21.84,2150.1,26.7,Laterite,Drip,11,4949.32,41.21
+Bihar,2.1,958.1,36.2,Laterite,Sprinkler,16,587.59,33.75
+Karnataka,14.17,1799.9,34.5,Alluvial,Sprinkler,13,3184.69,38.59
+Bihar,27.54,1617.7,37.7,Alluvial,Sprinkler,17,3492.21,26.9
+Tamil Nadu,32.04,1892.0,33.6,Alluvial,Flood,16,3945.79,34.25
+Bihar,13.64,910.3,27.1,Red,Sprinkler,16,3666.94,40.54
+Karnataka,7.83,1786.0,30.6,Red,Sprinkler,18,1001.15,37.71
+Karnataka,41.91,1754.5,31.9,Black,Drip,10,8551.58,45.94
+Tamil Nadu,49.24,1753.1,21.4,Alluvial,Sprinkler,15,5289.49,39.65
+Uttar Pradesh,26.76,1825.9,29.8,Red,Drip,15,3107.74,37.09
+Uttar Pradesh,9.41,1950.0,32.8,Laterite,Sprinkler,15,2206.36,33.94
+Bihar,14.34,2168.5,23.0,Laterite,Drip,15,3410.57,34.55
+Maharashtra,1.9,1258.7,34.1,Alluvial,Sprinkler,16,319.76,37.55
+Bihar,45.8,2202.6,30.5,Black,Drip,15,6554.99,48.4
+Tamil Nadu,6.77,1647.0,37.1,Black,Flood,10,1778.76,38.86
+Tamil Nadu,29.25,931.0,20.8,Laterite,Drip,12,4195.05,25.78
+Tamil Nadu,14.43,899.5,24.8,Black,Drip,11,3007.29,35.48
+Tamil Nadu,28.15,1368.2,30.8,Alluvial,Drip,15,8266.02,41.02
+Tamil Nadu,32.92,2134.3,25.3,Laterite,Sprinkler,17,4265.46,33.97
+Karnataka,41.66,2003.1,32.9,Red,Sprinkler,12,12005.38,45.61
+Uttar Pradesh,11.11,2140.6,33.7,Red,Sprinkler,17,1517.39,39.58
+Tamil Nadu,1.54,1679.4,21.8,Black,Flood,17,328.77,36.35
+Maharashtra,7.71,1548.3,29.2,Laterite,Flood,14,1352.35,34.69
+Maharashtra,45.1,1050.7,29.2,Laterite,Drip,17,13213.66,37.3
+Maharashtra,43.82,1357.9,26.6,Red,Flood,15,6779.32,34.96
+Maharashtra,30.27,1537.8,36.8,Laterite,Drip,14,5446.53,29.37
+Karnataka,30.43,950.6,34.9,Laterite,Drip,18,9024.69,36.53
+Maharashtra,33.59,1175.0,32.5,Laterite,Drip,16,6963.01,32.32
+Tamil Nadu,9.59,1817.0,32.9,Black,Flood,17,1923.04,41.62
+Bihar,45.81,2050.6,28.3,Laterite,Sprinkler,10,6942.77,37.53
+Maharashtra,21.52,2497.2,36.6,Alluvial,Flood,11,5170.67,38.14
+Karnataka,19.77,2386.3,32.5,Black,Drip,17,2033.83,49.84
+Karnataka,26.43,1892.4,33.1,Laterite,Drip,18,2904.72,36.3
+Maharashtra,3.3,1516.1,35.5,Laterite,Flood,13,725.58,28.93
+Bihar,9.15,1881.5,24.9,Alluvial,Drip,18,1540.26,46.33
+Maharashtra,37.16,2135.6,34.5,Black,Drip,13,10801.05,43.51
+Karnataka,5.06,1001.2,23.5,Red,Flood,18,1420.03,36.35
+Uttar Pradesh,30.55,1496.8,26.2,Red,Flood,16,7415.75,36.6
+Tamil Nadu,13.02,2227.7,26.0,Black,Flood,11,3432.45,47.68
+Karnataka,20.08,1452.5,37.6,Laterite,Drip,18,4688.0,28.6
+Maharashtra,15.15,1772.2,35.4,Laterite,Drip,13,1895.51,32.52
+Tamil Nadu,18.43,1799.2,32.6,Red,Sprinkler,17,4664.79,38.92
+Maharashtra,36.23,1113.6,33.1,Red,Sprinkler,16,5146.05,34.15
+Maharashtra,15.56,1415.8,30.1,Red,Flood,16,2562.55,36.0
+Uttar Pradesh,28.75,1368.7,37.0,Alluvial,Sprinkler,17,7585.6,34.95
+Tamil Nadu,24.33,844.5,28.9,Red,Drip,10,5043.73,38.72
+Tamil Nadu,33.52,841.1,26.8,Alluvial,Sprinkler,14,9117.04,43.22
+Uttar Pradesh,46.9,2213.9,22.9,Black,Drip,11,6688.27,44.08
+Karnataka,36.9,1264.2,34.2,Laterite,Flood,11,8175.4,28.55
+Maharashtra,11.53,1680.7,33.2,Red,Flood,10,1346.22,25.96
+Bihar,2.53,1307.8,26.9,Laterite,Drip,14,578.39,38.19
+Maharashtra,13.85,2399.2,20.5,Laterite,Sprinkler,11,3497.22,32.95
+Maharashtra,30.16,1240.8,35.1,Red,Flood,13,6544.3,30.13
+Karnataka,3.52,1530.4,20.2,Red,Flood,12,539.43,32.7
+Maharashtra,25.32,2283.6,32.7,Black,Sprinkler,12,2690.72,34.97
+Uttar Pradesh,30.25,2231.3,37.5,Alluvial,Sprinkler,11,3747.67,40.41
+Uttar Pradesh,17.38,1116.4,27.9,Alluvial,Drip,15,3901.13,42.56
+Tamil Nadu,38.77,2164.5,24.2,Laterite,Sprinkler,11,11122.49,40.67
+Bihar,6.22,1578.9,32.7,Red,Sprinkler,17,878.93,32.65
+Maharashtra,4.68,1621.0,34.7,Black,Sprinkler,17,1155.98,34.84
+Maharashtra,36.68,1026.9,29.8,Black,Drip,14,10024.28,41.77
+Karnataka,25.28,937.0,37.4,Black,Drip,16,5161.58,41.72
+Uttar Pradesh,34.73,2037.5,20.9,Black,Flood,13,8121.72,36.47
+Bihar,22.31,1644.0,29.1,Black,Drip,10,5867.6,43.31
+Tamil Nadu,13.07,1542.6,32.9,Alluvial,Flood,11,1988.4,35.52
+Uttar Pradesh,41.14,2040.2,35.5,Alluvial,Sprinkler,13,6556.86,37.97
+Tamil Nadu,40.17,2101.4,23.2,Alluvial,Flood,10,4022.04,36.0
+Karnataka,35.04,1070.1,34.4,Red,Flood,17,10253.36,32.32
+Karnataka,14.34,1837.4,29.9,Laterite,Sprinkler,18,4065.52,42.14
+Maharashtra,29.92,1030.1,27.1,Black,Flood,13,7567.18,37.49
+Bihar,18.69,2077.3,22.4,Red,Drip,12,2164.59,39.24
+Tamil Nadu,5.49,1916.8,35.6,Black,Drip,11,1040.36,45.38
+Uttar Pradesh,45.95,2426.2,22.8,Alluvial,Drip,14,5531.39,41.22
+Karnataka,7.7,917.2,25.6,Red,Drip,12,794.52,26.91
+Maharashtra,47.56,897.0,25.2,Alluvial,Flood,16,10617.13,37.05
+Maharashtra,22.85,1279.7,35.7,Black,Flood,15,6675.99,43.99
+Tamil Nadu,10.07,1244.9,32.1,Black,Sprinkler,10,2825.38,40.78
+Karnataka,27.55,1219.9,34.3,Laterite,Flood,17,6594.12,30.27
+Bihar,43.77,2340.6,24.5,Black,Flood,11,5222.99,40.14
+Karnataka,36.88,1224.2,31.2,Alluvial,Flood,14,5710.23,39.39
+Tamil Nadu,40.52,1262.3,30.3,Black,Sprinkler,18,6645.74,38.62
+Tamil Nadu,33.28,2091.0,35.0,Laterite,Drip,17,8407.53,39.17
+Karnataka,34.92,1564.6,36.3,Laterite,Flood,11,9094.91,33.49
+Tamil Nadu,42.61,2120.4,20.2,Alluvial,Sprinkler,18,7542.87,37.54
+Karnataka,13.23,911.1,32.1,Red,Sprinkler,14,2428.72,28.04
+Uttar Pradesh,24.98,1628.9,20.9,Black,Sprinkler,15,2720.37,38.21
+Karnataka,11.84,857.1,29.9,Laterite,Drip,12,1868.68,31.78
+Karnataka,49.4,906.5,25.2,Black,Flood,12,9398.7,32.18
+Tamil Nadu,47.26,2340.9,25.5,Black,Sprinkler,17,5831.72,50.25
+Tamil Nadu,2.93,1036.7,26.4,Red,Drip,11,558.61,37.32
+Maharashtra,35.57,1705.1,31.2,Laterite,Sprinkler,11,9626.49,39.47
+Maharashtra,46.34,1498.9,26.0,Black,Sprinkler,14,10021.68,42.17
+Uttar Pradesh,9.85,1390.5,33.2,Laterite,Sprinkler,15,1140.49,27.2
+Maharashtra,28.83,2329.7,27.3,Alluvial,Sprinkler,11,3988.18,46.84
+Karnataka,45.86,837.1,21.2,Alluvial,Sprinkler,14,8938.52,33.57
+Tamil Nadu,2.66,1928.4,34.1,Black,Drip,16,458.31,41.08
+Maharashtra,35.17,2437.8,25.1,Laterite,Flood,17,6040.29,38.96
+Maharashtra,15.57,1752.3,27.8,Black,Flood,16,3205.14,41.19
+Uttar Pradesh,46.3,2392.6,32.3,Laterite,Flood,17,10041.51,34.31
+Uttar Pradesh,48.58,888.8,26.0,Laterite,Flood,18,12600.31,28.1
+Karnataka,47.27,1511.9,21.0,Red,Drip,14,7950.5,36.53
+Tamil Nadu,24.24,1242.3,26.7,Red,Drip,14,6328.9,40.3
+Uttar Pradesh,43.24,2042.4,37.0,Red,Drip,13,7252.31,41.79
+Maharashtra,42.38,2468.2,31.6,Black,Sprinkler,18,4707.85,43.33
+Tamil Nadu,16.64,1236.1,32.1,Red,Sprinkler,14,3508.34,32.31
+Tamil Nadu,41.62,1912.1,31.4,Red,Sprinkler,11,9055.7,39.95
+Maharashtra,2.81,1136.8,23.6,Alluvial,Flood,17,806.21,33.23
+Uttar Pradesh,30.22,1761.1,27.5,Laterite,Sprinkler,16,7410.31,39.47
+Maharashtra,12.27,1588.7,33.5,Laterite,Flood,17,3479.21,34.8
+Tamil Nadu,6.91,2452.4,21.8,Red,Sprinkler,12,1946.34,42.99
+Bihar,4.77,1834.5,25.0,Laterite,Flood,13,1053.76,39.34
+Bihar,35.12,1394.2,25.0,Alluvial,Sprinkler,14,7219.0,47.12
+Karnataka,17.65,994.0,27.8,Alluvial,Sprinkler,15,3732.77,41.36
+Maharashtra,36.51,1057.1,37.6,Red,Drip,10,10794.77,38.27
+Maharashtra,4.2,1183.0,21.2,Alluvial,Sprinkler,13,1069.46,44.13
+Karnataka,16.45,1226.6,29.3,Laterite,Sprinkler,14,1994.61,29.14
+Karnataka,27.44,2246.0,23.2,Black,Drip,16,7016.02,48.9
+Karnataka,39.75,1754.1,37.5,Laterite,Flood,14,5330.78,25.71
+Tamil Nadu,16.62,1689.8,22.0,Black,Drip,10,3148.99,44.75
+Maharashtra,31.67,995.1,27.3,Red,Drip,16,4500.05,37.69
+Tamil Nadu,44.41,2262.2,33.3,Black,Flood,17,10565.88,40.22
+Karnataka,31.18,2028.8,32.7,Alluvial,Sprinkler,16,8588.9,43.91
+Maharashtra,12.42,915.0,27.6,Laterite,Flood,13,1963.26,33.25
+Tamil Nadu,2.2,2003.3,26.2,Black,Sprinkler,17,256.08,38.36
+Tamil Nadu,43.63,1724.0,27.2,Laterite,Sprinkler,14,6967.65,34.3
+Karnataka,2.04,938.9,24.8,Red,Flood,18,478.32,29.47
+Maharashtra,43.86,1579.1,23.7,Red,Drip,14,7269.88,39.19
+Karnataka,26.92,1624.0,28.7,Alluvial,Flood,10,4189.36,42.77
+Maharashtra,47.01,1081.8,24.8,Red,Sprinkler,18,6435.06,26.21
+Bihar,40.14,2407.7,25.2,Black,Flood,14,8008.06,44.67
+Uttar Pradesh,49.9,2245.0,31.8,Red,Flood,15,7743.97,34.51
+Uttar Pradesh,18.18,1937.3,37.4,Alluvial,Sprinkler,13,4475.95,41.71
+Uttar Pradesh,38.59,1585.9,30.9,Laterite,Drip,15,4450.37,35.14
+Karnataka,20.69,1500.0,21.4,Laterite,Flood,17,4816.77,31.3
+Bihar,24.51,1906.7,21.4,Red,Sprinkler,12,3615.52,34.78
+Maharashtra,31.75,1727.2,37.1,Black,Sprinkler,14,6281.92,40.59
+Tamil Nadu,43.81,905.9,25.4,Alluvial,Flood,11,6887.72,39.42
+Maharashtra,49.22,1671.3,21.7,Black,Drip,11,12036.93,40.12
+Tamil Nadu,38.65,2170.9,30.8,Alluvial,Flood,16,11172.22,41.8
+Maharashtra,21.47,1580.7,31.2,Red,Drip,15,6084.93,43.59
+Bihar,21.65,888.3,31.7,Alluvial,Drip,13,4691.24,36.62
+Tamil Nadu,37.14,2136.7,24.8,Alluvial,Drip,14,7150.27,49.04
+Karnataka,12.7,1142.3,20.3,Red,Drip,10,3348.48,39.09
+Maharashtra,6.41,1239.7,37.4,Black,Flood,16,1517.02,31.58
+Maharashtra,18.38,1080.0,24.5,Red,Sprinkler,17,2512.78,29.69
+Tamil Nadu,15.07,1361.4,32.2,Alluvial,Sprinkler,18,3981.25,39.11
+Karnataka,15.52,2086.5,32.7,Red,Sprinkler,17,2883.26,38.84
+Karnataka,12.45,1683.0,31.0,Alluvial,Sprinkler,14,1715.57,39.98
+Bihar,3.06,1148.3,25.6,Red,Sprinkler,12,478.46,27.1
+Karnataka,1.88,2292.3,24.9,Laterite,Sprinkler,18,288.59,35.18
+Karnataka,49.4,2295.3,30.8,Laterite,Flood,15,10069.76,36.63
+Karnataka,21.96,2280.0,35.6,Red,Drip,14,3225.35,36.82
+Uttar Pradesh,19.83,1206.0,37.0,Black,Sprinkler,12,2473.06,23.38
+Bihar,34.3,1567.1,21.9,Alluvial,Flood,15,4278.52,27.8
+Maharashtra,11.69,2474.5,22.8,Laterite,Sprinkler,12,2532.7,35.47
+Tamil Nadu,47.55,2112.4,37.0,Black,Sprinkler,15,11742.56,40.74
+Maharashtra,39.53,846.2,33.3,Alluvial,Drip,13,6495.04,34.66
+Bihar,5.38,910.8,35.9,Laterite,Drip,11,575.28,25.66
+Tamil Nadu,21.46,1588.7,23.6,Laterite,Drip,17,2692.05,37.37
+Bihar,44.08,2345.7,30.6,Red,Sprinkler,13,12471.95,47.07
+Karnataka,47.29,1715.8,32.6,Alluvial,Sprinkler,18,9396.94,40.23
+Tamil Nadu,23.9,1646.3,32.2,Black,Sprinkler,16,4558.08,40.8
+Karnataka,31.06,979.3,27.3,Black,Drip,11,3342.36,37.17
+Maharashtra,9.18,1916.5,20.3,Black,Flood,13,2255.78,36.7
+Maharashtra,49.57,2197.6,30.5,Alluvial,Sprinkler,14,10192.27,39.43
+Tamil Nadu,12.35,1446.7,24.6,Black,Sprinkler,12,1734.14,37.62
+Tamil Nadu,47.19,2118.5,28.1,Black,Sprinkler,18,5757.88,46.85
+Bihar,32.83,2439.6,37.2,Black,Flood,14,5800.32,42.84
+Bihar,30.78,1146.4,27.2,Red,Sprinkler,11,8231.57,37.73
+Karnataka,26.12,1689.7,35.1,Red,Flood,12,7132.3,36.32
+Tamil Nadu,12.3,1288.1,23.4,Alluvial,Sprinkler,18,2713.0,29.3
+Maharashtra,9.65,2147.9,32.1,Alluvial,Flood,16,2369.15,40.87
+Bihar,11.8,1781.9,37.6,Black,Sprinkler,11,1451.77,33.53
+Bihar,10.14,1878.8,21.8,Red,Drip,18,2206.72,44.52
+Maharashtra,39.2,2156.5,20.1,Laterite,Drip,13,9149.01,40.0
+Bihar,18.16,1473.1,27.8,Laterite,Drip,18,2544.99,39.57
+Karnataka,3.83,2355.7,21.7,Black,Drip,11,1057.2,49.9
+Tamil Nadu,48.49,1706.1,33.5,Black,Sprinkler,13,6740.08,38.34
+Maharashtra,44.31,1068.5,36.5,Red,Drip,14,7209.04,36.29
+Tamil Nadu,46.46,1983.0,27.8,Red,Flood,11,10412.21,33.75
+Bihar,49.75,2148.5,24.7,Red,Drip,10,11326.58,44.72
+Bihar,9.52,1338.5,27.8,Alluvial,Drip,16,2283.63,48.66
+Maharashtra,20.42,2257.2,33.0,Alluvial,Drip,10,2499.46,37.74
+Karnataka,38.15,2340.4,20.2,Black,Sprinkler,17,10296.41,46.61
+Uttar Pradesh,35.11,1270.7,30.6,Alluvial,Drip,12,7252.65,39.66
+Maharashtra,8.54,2472.0,31.0,Red,Flood,15,1659.02,40.79
+Uttar Pradesh,40.98,1039.2,31.5,Red,Drip,16,12139.08,37.18
+Uttar Pradesh,12.0,1143.4,24.4,Alluvial,Drip,10,2976.91,44.5
+Karnataka,11.97,1113.2,32.9,Laterite,Drip,15,1479.51,30.8
+Uttar Pradesh,27.31,2319.8,21.6,Black,Flood,16,6863.22,45.08
+Uttar Pradesh,30.05,1912.3,23.6,Laterite,Drip,15,3577.45,38.03
+Karnataka,29.42,1058.6,35.8,Black,Flood,13,3103.64,27.1
+Uttar Pradesh,5.48,1548.5,33.3,Laterite,Flood,10,990.37,32.18
+Uttar Pradesh,44.0,1846.0,20.2,Alluvial,Drip,18,13143.49,42.01
+Uttar Pradesh,14.01,941.9,24.5,Black,Flood,13,1891.02,33.29
+Maharashtra,7.35,2300.1,23.9,Black,Sprinkler,16,1723.79,44.84
+Maharashtra,44.55,2166.1,24.9,Black,Drip,16,5999.96,48.46
+Maharashtra,47.83,1658.9,24.5,Red,Drip,11,11716.31,43.32
+Karnataka,43.24,2444.1,21.1,Red,Flood,10,8694.3,37.28
+Bihar,40.67,1510.2,28.3,Laterite,Flood,17,9597.89,34.04
+Uttar Pradesh,33.11,2473.0,33.2,Alluvial,Drip,17,4654.43,41.29
+Uttar Pradesh,27.99,1935.5,30.9,Red,Sprinkler,16,6973.03,41.37
+Karnataka,5.26,1878.9,32.1,Black,Flood,17,1573.39,41.27
+Uttar Pradesh,21.01,1082.1,21.5,Red,Flood,12,4898.06,24.85
+Maharashtra,19.26,2299.3,37.1,Alluvial,Sprinkler,11,3826.88,35.69
+Bihar,13.73,1526.7,35.1,Red,Sprinkler,16,3908.04,41.1
+Tamil Nadu,36.45,1075.8,34.5,Black,Drip,17,3760.56,33.57
+Uttar Pradesh,25.3,821.4,34.8,Laterite,Sprinkler,10,6223.41,32.31
+Maharashtra,4.97,1751.6,36.8,Black,Drip,18,1380.41,41.93
+Tamil Nadu,11.79,1696.6,29.8,Alluvial,Sprinkler,13,1324.43,43.03
+Bihar,34.48,2022.9,23.6,Laterite,Flood,13,6551.64,38.02
+Tamil Nadu,4.73,2313.4,31.1,Red,Drip,12,666.66,40.35
+Maharashtra,42.71,935.0,33.4,Red,Drip,15,9110.2,28.93
+Tamil Nadu,25.26,2043.5,33.3,Red,Drip,10,5807.49,36.41
+Karnataka,24.55,1118.6,29.4,Laterite,Sprinkler,15,3940.88,30.18
+Tamil Nadu,30.03,2258.9,21.2,Black,Flood,11,5765.65,45.74
+Uttar Pradesh,41.41,2192.4,26.7,Laterite,Drip,18,6454.49,40.76
+Uttar Pradesh,18.04,1719.3,36.6,Laterite,Drip,11,3136.76,34.29
+Karnataka,34.22,2007.4,30.5,Alluvial,Drip,16,4513.89,48.11
+Maharashtra,28.72,1334.4,29.7,Laterite,Drip,10,7958.65,40.49
+Uttar Pradesh,14.08,1601.0,24.8,Red,Flood,16,1436.19,32.53
+Bihar,44.05,2196.8,26.6,Black,Sprinkler,14,12179.02,50.42
+Uttar Pradesh,40.07,1580.8,36.1,Black,Flood,17,8588.43,36.5
+Uttar Pradesh,33.26,1408.3,32.0,Black,Drip,13,5532.19,41.14
+Maharashtra,42.68,1640.2,34.2,Red,Flood,16,10440.02,32.26
+Tamil Nadu,43.5,2208.0,28.2,Red,Drip,15,8767.44,46.57
+Uttar Pradesh,35.71,1369.9,31.3,Red,Sprinkler,14,7135.63,39.06
+Karnataka,42.01,1095.4,24.5,Red,Sprinkler,13,5126.42,36.98
+Tamil Nadu,35.18,2010.4,32.7,Red,Sprinkler,16,6258.63,38.72
+Bihar,34.33,2204.2,27.7,Laterite,Drip,14,5088.15,44.9
+Maharashtra,31.31,971.1,28.0,Red,Flood,14,3229.29,31.93
+Bihar,37.88,1207.8,31.7,Red,Sprinkler,10,6516.11,33.39
+Tamil Nadu,8.77,1041.4,36.9,Red,Drip,11,1034.55,31.41
+Tamil Nadu,44.16,1391.5,21.2,Red,Drip,14,6684.32,38.22
+Tamil Nadu,43.72,1565.6,34.8,Black,Flood,12,5180.97,31.05
+Bihar,2.43,2073.0,25.3,Red,Sprinkler,11,292.06,33.73
+Tamil Nadu,41.47,1907.0,28.0,Laterite,Drip,13,5797.6,39.24
+Bihar,7.31,1855.6,20.4,Laterite,Flood,13,2192.78,34.89
+Tamil Nadu,17.42,1399.0,25.4,Laterite,Sprinkler,13,1749.61,34.14
+Karnataka,37.43,2230.5,29.0,Alluvial,Flood,13,8524.1,41.65
+Tamil Nadu,8.88,1601.2,21.0,Black,Flood,12,1138.85,26.59
+Bihar,41.08,2464.5,28.8,Red,Drip,16,11671.88,48.34
+Uttar Pradesh,41.77,1878.0,36.7,Alluvial,Drip,18,4959.21,37.49
+Tamil Nadu,25.87,1014.7,21.9,Red,Drip,14,7528.5,33.65
+Uttar Pradesh,1.31,1949.5,33.8,Alluvial,Flood,13,291.06,36.65
+Karnataka,15.06,1352.7,27.4,Alluvial,Drip,11,1509.82,43.45
+Maharashtra,31.23,1966.8,31.8,Laterite,Flood,11,8706.97,37.56
+Karnataka,49.08,918.4,24.7,Laterite,Flood,14,10029.12,30.24
+Tamil Nadu,31.96,1097.3,22.9,Alluvial,Drip,16,4874.98,36.21
+Uttar Pradesh,13.73,2254.8,22.9,Laterite,Sprinkler,18,3479.95,36.99
+Uttar Pradesh,32.07,1186.2,21.3,Alluvial,Sprinkler,16,9150.63,36.43
+Bihar,27.46,2223.0,23.3,Black,Sprinkler,14,5402.43,45.18
+Uttar Pradesh,39.21,1274.8,32.0,Laterite,Flood,15,6395.57,25.07
+Bihar,6.24,1892.9,35.9,Laterite,Flood,12,1608.6,37.92
+Maharashtra,38.29,1980.1,34.7,Laterite,Flood,14,9050.11,35.54
+Tamil Nadu,27.52,1671.5,32.3,Black,Drip,17,7643.69,44.51
+Bihar,48.19,1319.0,22.0,Alluvial,Flood,10,11493.45,37.91
+Maharashtra,17.75,1161.5,25.2,Red,Drip,10,2639.53,40.06
+Uttar Pradesh,32.0,856.4,25.6,Laterite,Drip,16,9162.62,36.02
+Uttar Pradesh,46.67,1316.7,24.5,Alluvial,Sprinkler,14,5645.54,35.28
+Maharashtra,6.02,1910.4,29.3,Black,Sprinkler,14,924.6,47.71
+Uttar Pradesh,46.92,2395.1,29.6,Red,Sprinkler,10,9573.51,49.77
+Maharashtra,34.71,2281.0,26.4,Laterite,Drip,18,7398.38,44.09
+Bihar,4.32,2102.3,26.4,Black,Drip,10,445.23,42.15
+Bihar,15.75,2140.4,34.9,Black,Drip,14,4033.8,44.79
+Maharashtra,35.7,1930.5,34.2,Red,Flood,18,6151.88,37.09
+Bihar,4.3,1242.5,25.5,Alluvial,Drip,13,779.52,38.0
+Bihar,29.53,2342.2,36.4,Laterite,Sprinkler,17,7733.14,36.76
+Bihar,17.95,1940.2,37.2,Laterite,Sprinkler,15,3156.63,32.63
+Karnataka,31.42,1752.7,25.9,Alluvial,Drip,12,3438.76,39.55
+Tamil Nadu,3.24,988.7,26.4,Alluvial,Drip,13,438.33,42.2
+Uttar Pradesh,43.71,1560.0,29.1,Alluvial,Sprinkler,11,12727.51,46.5
+Karnataka,48.7,1582.6,36.9,Red,Drip,10,5555.75,39.03
+Bihar,48.48,2269.8,35.8,Red,Sprinkler,17,8289.41,39.05
+Maharashtra,37.73,1729.3,21.8,Laterite,Flood,10,7569.99,28.75
+Bihar,7.37,1446.7,27.1,Red,Sprinkler,10,1464.1,39.71
+Tamil Nadu,38.15,2460.6,30.0,Black,Flood,13,3845.21,45.35
+Bihar,2.2,988.2,29.1,Laterite,Drip,15,440.51,39.37
+Maharashtra,2.08,1518.3,23.5,Red,Drip,18,367.65,35.68
+Tamil Nadu,16.86,871.4,35.5,Alluvial,Flood,10,4963.85,30.57
+Bihar,24.94,2057.8,32.2,Black,Drip,16,3287.89,40.72
+Tamil Nadu,38.75,2360.7,35.1,Alluvial,Flood,14,6619.7,43.62
+Uttar Pradesh,34.48,1276.1,35.5,Laterite,Drip,17,6340.74,34.24
+Uttar Pradesh,22.85,2259.2,33.5,Alluvial,Sprinkler,16,4070.47,39.24
+Bihar,14.41,1296.8,27.9,Red,Drip,13,3359.92,42.28
+Tamil Nadu,49.86,2348.3,31.0,Red,Sprinkler,13,7135.09,39.81
+Maharashtra,21.88,2081.7,22.9,Laterite,Sprinkler,15,3155.41,32.02
+Bihar,23.12,2168.3,32.1,Alluvial,Flood,15,5683.87,42.41
+Uttar Pradesh,9.02,830.6,23.2,Laterite,Drip,18,1804.52,32.92
+Uttar Pradesh,39.95,2436.8,32.5,Alluvial,Flood,14,7312.09,47.51
+Bihar,34.99,2035.3,24.1,Black,Drip,17,4683.08,42.34
+Tamil Nadu,11.82,1318.1,22.1,Red,Sprinkler,14,1625.31,26.39
+Uttar Pradesh,5.04,2210.0,23.0,Laterite,Sprinkler,11,514.64,31.38
+Tamil Nadu,34.34,1278.6,20.0,Black,Drip,15,4061.92,33.34
+Uttar Pradesh,33.07,2283.7,32.9,Black,Drip,18,6989.93,46.04
+Uttar Pradesh,14.39,991.4,33.2,Laterite,Flood,12,4005.81,27.2
+Karnataka,47.59,1996.3,29.3,Laterite,Drip,10,7492.23,43.33
+Uttar Pradesh,8.4,1719.2,22.9,Black,Drip,10,1390.62,39.05
+Maharashtra,22.18,964.1,21.5,Alluvial,Drip,12,2730.83,34.54
+Bihar,47.24,1211.2,20.3,Black,Flood,14,8395.79,38.64
+Bihar,21.57,821.1,23.0,Laterite,Drip,12,2317.57,31.01
+Tamil Nadu,32.29,1596.9,36.0,Black,Sprinkler,18,9154.87,41.24
+Uttar Pradesh,20.48,1312.2,24.3,Alluvial,Flood,17,4805.06,42.72
+Maharashtra,14.44,1817.2,26.4,Red,Flood,12,4305.28,44.5
+Tamil Nadu,49.21,1305.3,21.9,Red,Sprinkler,18,13609.75,37.14
+Karnataka,21.06,1309.9,24.0,Black,Sprinkler,15,4098.24,37.77
+Tamil Nadu,44.81,2063.4,29.3,Alluvial,Sprinkler,16,9138.42,44.59
+Tamil Nadu,12.27,881.8,30.9,Red,Drip,13,1694.67,34.1
+Uttar Pradesh,11.44,2334.9,24.4,Black,Sprinkler,13,2201.15,43.9
+Karnataka,2.53,2248.8,21.0,Black,Drip,11,709.93,48.15
+Tamil Nadu,32.93,1935.3,27.0,Alluvial,Flood,14,3627.92,40.37
+Maharashtra,19.06,1808.5,24.2,Laterite,Flood,17,5197.88,32.46
+Maharashtra,43.35,2316.9,24.0,Black,Sprinkler,16,7291.02,48.84
+Bihar,24.19,1115.1,37.3,Laterite,Drip,16,6770.84,34.08
+Karnataka,48.44,934.2,31.1,Laterite,Sprinkler,15,13959.24,33.18
+Karnataka,10.09,1207.2,30.0,Red,Sprinkler,12,2362.81,37.53
+Bihar,43.56,2150.8,27.5,Laterite,Drip,14,10144.46,47.48
+Tamil Nadu,39.05,858.9,27.7,Alluvial,Sprinkler,10,7441.01,33.43
+Karnataka,38.78,1790.8,29.7,Red,Flood,16,10358.45,39.28
+Maharashtra,42.39,2492.2,32.5,Red,Sprinkler,18,12391.55,40.77
+Maharashtra,38.29,2254.7,32.6,Red,Drip,10,9764.58,52.67
+Uttar Pradesh,31.68,1686.5,23.1,Black,Drip,11,7108.59,44.55
+Karnataka,7.43,908.2,29.0,Black,Flood,12,1644.69,33.96
+Tamil Nadu,2.59,2213.3,27.4,Laterite,Drip,12,699.03,56.9
+Bihar,46.12,1818.3,35.7,Red,Drip,17,9604.06,36.59
+Bihar,31.22,995.4,31.4,Red,Flood,16,8141.3,32.65
+Tamil Nadu,40.03,959.6,29.6,Alluvial,Sprinkler,15,8077.14,37.32
+Uttar Pradesh,24.59,2346.4,22.1,Laterite,Flood,13,2766.1,30.39
+Bihar,6.75,1937.6,30.9,Alluvial,Sprinkler,18,1193.33,42.55
+Karnataka,7.13,2209.8,22.1,Laterite,Flood,10,1346.77,27.77
+Uttar Pradesh,34.59,2294.3,26.1,Laterite,Sprinkler,11,4438.71,41.55
+Karnataka,22.08,1772.0,22.6,Black,Flood,13,2660.62,32.74
+Maharashtra,10.83,1679.7,32.5,Black,Sprinkler,12,2242.82,39.65
+Uttar Pradesh,25.09,1531.7,23.7,Alluvial,Flood,10,2936.25,36.72
+Bihar,4.15,1338.8,27.1,Laterite,Sprinkler,14,666.44,33.72
+Uttar Pradesh,29.52,1538.8,36.1,Red,Flood,16,7348.1,31.93
+Uttar Pradesh,14.18,2115.6,23.7,Black,Drip,11,4153.13,46.2
+Uttar Pradesh,40.08,1823.3,29.1,Red,Sprinkler,14,9762.45,47.85
+Uttar Pradesh,16.21,2317.3,27.5,Alluvial,Flood,15,4839.09,49.25
+Karnataka,23.31,1553.7,20.3,Black,Sprinkler,16,5586.65,35.3
+Maharashtra,1.57,1832.1,34.3,Black,Sprinkler,10,249.25,39.45
+Tamil Nadu,4.55,1873.2,21.2,Laterite,Flood,16,1066.57,29.57
+Uttar Pradesh,20.23,1805.9,28.5,Alluvial,Sprinkler,13,4863.93,50.02
+Bihar,24.52,1994.5,30.1,Laterite,Flood,17,4274.95,36.32
+Uttar Pradesh,30.4,1203.6,31.3,Black,Drip,13,3147.7,35.96
+Bihar,15.29,1671.0,32.4,Alluvial,Sprinkler,15,3679.38,43.02
+Karnataka,35.05,977.2,24.6,Black,Drip,18,3657.12,36.64
+Bihar,43.15,1453.7,20.2,Alluvial,Sprinkler,14,9762.15,32.6
+Tamil Nadu,39.21,1629.0,33.0,Black,Sprinkler,13,5204.08,39.1
+Maharashtra,2.94,1908.8,29.6,Red,Sprinkler,17,626.57,41.82
+Bihar,24.54,2415.9,35.1,Red,Flood,18,4927.21,40.45
+Bihar,6.14,1821.1,34.8,Laterite,Drip,13,630.59,33.96
+Maharashtra,12.86,2064.1,35.2,Red,Sprinkler,12,2219.29,36.32
+Tamil Nadu,49.35,1660.7,28.7,Black,Flood,17,10867.77,42.69
+Uttar Pradesh,7.98,1878.0,26.0,Black,Sprinkler,14,2152.38,50.75
+Bihar,25.45,920.6,34.2,Red,Flood,11,7068.19,30.17
+Maharashtra,31.29,1232.5,28.1,Laterite,Sprinkler,18,6156.93,36.83
+Karnataka,35.42,1415.2,23.3,Red,Drip,12,8702.14,41.15
+Maharashtra,28.42,1603.2,35.4,Alluvial,Drip,11,4640.73,39.85
+Karnataka,1.48,877.6,35.9,Alluvial,Sprinkler,10,249.29,30.16
+Tamil Nadu,17.0,1038.0,28.4,Alluvial,Flood,17,2361.18,35.64
+Uttar Pradesh,26.37,1270.6,21.4,Red,Sprinkler,12,5600.71,32.63
+Maharashtra,5.31,2451.6,27.0,Red,Flood,16,865.07,46.87
+Bihar,18.18,1363.3,34.5,Red,Sprinkler,10,2124.77,29.31
+Tamil Nadu,2.63,1619.5,36.2,Alluvial,Flood,10,623.31,32.73
+Maharashtra,4.85,1133.4,23.7,Laterite,Drip,18,1171.52,35.79
+Bihar,20.45,1838.3,21.2,Black,Sprinkler,17,3517.37,38.72
+Maharashtra,7.5,1277.2,35.8,Red,Drip,12,865.09,32.67
+Karnataka,28.81,1151.9,27.0,Laterite,Drip,15,5337.33,35.5
+Maharashtra,34.78,1678.2,29.8,Black,Sprinkler,12,6554.89,42.81
+Maharashtra,40.23,809.4,37.4,Black,Sprinkler,13,9403.13,32.94
+Maharashtra,10.81,813.0,21.2,Black,Flood,10,1762.93,33.25
+Tamil Nadu,9.21,1172.4,31.7,Laterite,Flood,14,2178.35,31.65
+Maharashtra,6.12,862.4,21.3,Laterite,Drip,10,1678.7,33.55
+Bihar,32.19,983.6,26.8,Alluvial,Flood,10,4747.94,36.12
+Karnataka,35.62,1376.1,34.5,Laterite,Flood,16,10535.82,34.73
+Karnataka,2.55,2164.4,27.8,Laterite,Sprinkler,15,452.05,37.39
+Maharashtra,46.87,1772.5,37.9,Laterite,Flood,11,7192.28,23.76
+Tamil Nadu,3.55,1671.5,30.1,Black,Drip,11,654.27,50.16
+Tamil Nadu,27.52,1298.9,25.8,Red,Flood,16,3271.56,33.91
+Bihar,35.74,2384.0,24.0,Alluvial,Drip,10,4472.55,44.4
+Maharashtra,43.68,1474.9,26.3,Red,Sprinkler,11,7988.5,37.24
+Karnataka,35.99,948.1,26.7,Red,Drip,17,9087.08,38.25
+Tamil Nadu,40.28,1849.0,21.2,Laterite,Flood,15,11280.92,34.89
+Maharashtra,17.63,993.5,26.7,Alluvial,Sprinkler,11,4107.15,36.19
+Tamil Nadu,40.93,1386.9,28.4,Red,Flood,16,4954.33,36.35
+Tamil Nadu,4.93,1662.6,33.0,Red,Sprinkler,13,1155.61,37.73
+Karnataka,44.85,2286.2,31.8,Alluvial,Sprinkler,11,10184.79,45.32
+Uttar Pradesh,27.83,1639.0,32.8,Laterite,Flood,15,7267.88,31.35
+Bihar,41.05,1993.8,20.2,Red,Flood,18,10880.29,37.45
+Bihar,23.16,2487.8,23.9,Black,Sprinkler,18,6337.52,45.44
+Karnataka,32.54,1023.5,31.9,Red,Sprinkler,17,5949.17,30.63
+Tamil Nadu,26.79,1267.0,28.7,Black,Flood,12,6418.16,40.69
+Maharashtra,36.85,1470.8,20.1,Laterite,Drip,12,5662.01,39.84
+Tamil Nadu,5.0,1517.1,34.5,Red,Flood,11,1499.34,35.61
+Karnataka,3.96,1498.7,33.9,Alluvial,Sprinkler,14,534.86,27.82
+Bihar,13.11,2342.9,29.9,Alluvial,Flood,13,1337.52,38.87
+Tamil Nadu,8.82,2013.9,21.2,Red,Drip,16,1144.5,39.79
+Bihar,43.72,1833.4,33.8,Laterite,Flood,13,11156.23,30.83
+Maharashtra,11.74,1325.9,30.5,Laterite,Sprinkler,18,2223.05,36.33
+Bihar,48.82,2200.4,34.1,Alluvial,Flood,11,9251.39,39.68
+Bihar,17.51,2423.6,33.5,Red,Sprinkler,15,5095.49,46.05
+Uttar Pradesh,9.92,2196.0,34.5,Laterite,Sprinkler,16,2816.56,37.02
+Uttar Pradesh,39.7,802.7,29.3,Alluvial,Flood,13,6440.89,31.93
+Uttar Pradesh,33.28,1881.9,22.5,Black,Sprinkler,15,4719.49,41.04
+Bihar,25.41,886.9,32.1,Red,Sprinkler,16,6852.99,34.31
+Karnataka,28.21,1237.9,31.2,Black,Drip,13,7932.76,44.3
+Bihar,36.24,901.2,33.4,Black,Drip,17,7549.49,43.24
+Karnataka,12.19,1826.5,23.1,Laterite,Drip,18,2753.54,40.83
+Karnataka,49.82,1967.2,23.5,Laterite,Drip,10,7541.89,31.97
+Uttar Pradesh,48.76,994.6,36.0,Laterite,Sprinkler,16,12685.43,31.97
+Tamil Nadu,32.87,1452.5,33.5,Red,Flood,18,7442.57,35.4
+Maharashtra,10.78,1575.6,36.3,Black,Sprinkler,14,2163.58,40.59
+Uttar Pradesh,34.33,1427.4,33.7,Red,Sprinkler,11,3845.71,28.75
+Uttar Pradesh,4.54,1005.7,30.7,Laterite,Sprinkler,15,1285.67,35.54
+Tamil Nadu,2.5,1512.2,31.8,Black,Flood,16,557.73,39.26
+Maharashtra,13.63,2077.0,36.0,Red,Drip,11,1888.28,34.55
+Bihar,23.67,920.7,30.4,Red,Sprinkler,11,5237.63,37.28
+Bihar,43.55,936.3,31.4,Alluvial,Sprinkler,10,10255.71,36.44
+Uttar Pradesh,36.63,1403.1,22.8,Red,Drip,13,7514.79,41.07
+Maharashtra,37.39,2400.9,28.5,Laterite,Sprinkler,16,9108.96,41.29
+Uttar Pradesh,21.85,1936.6,32.9,Red,Flood,18,4725.95,32.01
+Karnataka,17.95,1953.7,24.9,Black,Sprinkler,12,5197.49,45.4
+Uttar Pradesh,19.18,1415.3,23.6,Red,Sprinkler,16,2123.98,33.19
+Uttar Pradesh,49.39,1809.2,25.6,Alluvial,Drip,16,5988.5,41.17
+Bihar,2.97,817.2,24.3,Black,Sprinkler,16,400.16,24.99
+Bihar,43.48,1881.4,23.9,Black,Sprinkler,11,10349.73,44.5
+Bihar,29.36,2352.6,27.6,Alluvial,Flood,15,6726.94,47.01
+Karnataka,22.49,1841.4,36.3,Laterite,Drip,11,6261.48,40.02
+Bihar,36.54,2285.3,29.1,Black,Drip,15,9009.87,50.29
+Maharashtra,24.85,2030.8,23.4,Laterite,Flood,12,5011.53,33.45
+Tamil Nadu,43.8,1004.9,21.4,Black,Sprinkler,11,13068.45,42.22
+Maharashtra,45.13,2334.2,32.5,Black,Drip,15,6914.89,41.48
+Maharashtra,21.66,913.0,26.9,Laterite,Drip,11,5775.39,37.06
+Bihar,14.56,1707.7,34.8,Black,Sprinkler,14,2698.81,38.99
+Tamil Nadu,30.03,1041.6,31.9,Laterite,Sprinkler,11,6899.3,34.04
+Tamil Nadu,45.71,819.9,34.3,Alluvial,Drip,12,11219.69,37.95
+Tamil Nadu,11.32,1517.5,24.9,Laterite,Sprinkler,12,2566.82,32.86
+Karnataka,31.53,1301.6,32.5,Alluvial,Drip,15,4039.04,41.76
+Bihar,31.95,1626.2,24.8,Black,Sprinkler,15,6025.46,41.06
+Tamil Nadu,36.92,1781.2,36.9,Laterite,Sprinkler,12,7837.66,27.13
+Karnataka,7.45,874.4,31.5,Black,Flood,12,2010.08,37.37
+Uttar Pradesh,36.08,1009.1,25.8,Laterite,Sprinkler,10,6809.35,33.58
+Uttar Pradesh,45.54,1749.7,24.9,Alluvial,Flood,16,12921.95,47.61
+Karnataka,9.8,1383.4,23.4,Alluvial,Sprinkler,17,1843.13,38.69
+Karnataka,12.64,2039.6,32.5,Laterite,Drip,11,2651.32,35.68
+Bihar,48.6,1908.9,23.9,Alluvial,Drip,13,12599.9,41.81
+Bihar,9.87,2237.5,30.7,Black,Sprinkler,16,2137.98,49.74
+Uttar Pradesh,42.86,1977.2,24.8,Black,Sprinkler,17,12516.99,43.86
+Tamil Nadu,25.12,1530.9,31.9,Red,Drip,10,5829.53,35.58
+Uttar Pradesh,13.11,1944.0,34.7,Alluvial,Sprinkler,13,2681.54,42.64
+Tamil Nadu,43.67,1268.1,34.0,Black,Flood,15,4573.05,30.72
+Tamil Nadu,22.82,1320.7,33.7,Laterite,Flood,12,4170.28,31.89
+Bihar,26.23,2141.3,23.4,Alluvial,Flood,14,4192.86,36.42
+Maharashtra,18.6,1558.9,21.6,Black,Flood,18,4642.95,42.34
+Maharashtra,30.05,2157.2,32.6,Alluvial,Flood,12,4256.75,41.33
+Karnataka,9.01,2198.1,26.6,Laterite,Sprinkler,14,1270.81,36.33
+Bihar,20.16,2257.9,27.8,Black,Sprinkler,17,2780.14,40.74
+Tamil Nadu,48.5,2358.3,20.6,Red,Flood,15,6068.47,41.1
+Maharashtra,13.65,1532.7,24.7,Red,Sprinkler,13,2214.05,34.99
+Tamil Nadu,33.18,1342.1,20.6,Alluvial,Sprinkler,17,9196.98,35.36
+Maharashtra,16.93,1789.7,35.8,Laterite,Flood,12,4316.91,36.51
+Maharashtra,38.9,1431.0,24.4,Black,Sprinkler,12,9610.25,44.15
+Maharashtra,7.41,1821.8,30.0,Laterite,Sprinkler,13,1922.65,42.86
+Bihar,48.52,1999.5,20.7,Black,Sprinkler,18,7466.43,38.68
+Uttar Pradesh,23.24,1970.3,32.0,Alluvial,Flood,14,6448.83,47.79
+Tamil Nadu,12.57,1436.7,25.8,Black,Sprinkler,17,1602.18,34.95
+Bihar,4.6,1083.7,36.2,Laterite,Drip,15,769.44,28.5
+Bihar,9.32,1531.9,36.0,Laterite,Drip,12,2025.7,35.68
+Bihar,26.47,1042.4,25.9,Alluvial,Flood,17,3191.78,36.9
+Bihar,17.51,2313.2,36.2,Laterite,Drip,18,4307.92,41.88
+Bihar,41.62,1388.0,37.9,Black,Flood,17,7385.44,31.68
+Karnataka,22.11,1062.6,34.9,Alluvial,Drip,13,5679.64,37.34
+Tamil Nadu,13.19,843.3,35.2,Black,Drip,15,2619.26,39.98
+Bihar,31.24,1897.9,24.5,Laterite,Drip,10,4254.1,40.17
+Tamil Nadu,35.63,1882.7,30.4,Alluvial,Flood,13,8798.91,39.36
+Karnataka,9.19,1379.0,21.2,Black,Flood,17,1382.44,30.83
+Karnataka,9.21,921.9,21.7,Laterite,Sprinkler,10,1825.07,27.0
+Tamil Nadu,2.8,1496.4,38.0,Laterite,Flood,12,322.3,22.61
+Maharashtra,37.08,1329.1,25.9,Red,Drip,10,8290.1,43.29
+Uttar Pradesh,33.53,1951.1,33.5,Laterite,Drip,18,7818.24,40.81
+Maharashtra,24.26,1829.8,34.5,Black,Flood,11,4263.33,38.92
+Maharashtra,42.36,1419.8,35.4,Alluvial,Flood,18,12321.87,37.1
+Maharashtra,40.48,1170.4,38.0,Red,Flood,13,11125.27,30.18
+Bihar,29.68,2479.7,24.3,Laterite,Sprinkler,11,7170.34,36.62
+Karnataka,43.55,1571.8,20.7,Laterite,Drip,13,10570.91,38.46
+Maharashtra,11.09,1970.1,27.4,Laterite,Sprinkler,15,1668.83,36.36
+Karnataka,6.48,1038.9,22.3,Black,Sprinkler,16,1499.23,36.71
+Tamil Nadu,14.22,1625.5,20.4,Red,Drip,12,1985.7,33.64
+Uttar Pradesh,3.8,846.8,26.5,Black,Drip,12,489.44,39.38
+Tamil Nadu,27.03,1659.3,34.1,Red,Flood,17,8106.12,37.99
+Tamil Nadu,46.89,2438.8,30.2,Alluvial,Flood,14,10525.64,41.78
+Bihar,2.93,1453.2,25.6,Black,Sprinkler,13,545.56,41.34
+Uttar Pradesh,6.98,866.3,31.8,Black,Flood,16,1100.28,31.74
+Tamil Nadu,23.16,852.6,24.2,Alluvial,Flood,16,5113.36,37.86
+Tamil Nadu,46.76,1459.6,20.3,Red,Drip,18,5139.8,29.75
+Uttar Pradesh,16.49,1072.0,33.8,Laterite,Drip,18,1961.26,27.55
+Uttar Pradesh,25.85,839.7,31.2,Alluvial,Flood,14,2754.87,29.8
+Tamil Nadu,3.04,2085.6,33.7,Laterite,Drip,17,607.5,36.37
+Uttar Pradesh,8.27,1579.5,20.7,Laterite,Flood,10,1820.4,29.77
+Tamil Nadu,49.34,1291.7,35.1,Alluvial,Drip,18,5550.55,34.06
+Tamil Nadu,48.29,2330.1,31.2,Red,Drip,17,11794.59,46.21
+Bihar,1.24,997.4,30.1,Laterite,Drip,15,181.14,36.91
+Maharashtra,47.64,2425.1,31.2,Alluvial,Drip,12,11292.6,49.52
+Tamil Nadu,32.32,1333.7,35.6,Black,Flood,12,9578.98,37.5
+Karnataka,43.53,2310.3,30.6,Black,Sprinkler,17,10369.77,43.96
+Maharashtra,23.28,1825.0,30.5,Black,Drip,14,6440.15,48.05
+Maharashtra,26.26,2205.4,37.8,Alluvial,Flood,16,7605.94,38.02
+Maharashtra,24.95,2472.8,33.6,Black,Flood,14,4923.89,44.52
+Bihar,33.68,1290.3,28.0,Laterite,Drip,17,8098.86,37.86
+Tamil Nadu,7.84,2433.9,32.7,Black,Sprinkler,13,2119.89,44.57
+Bihar,2.47,1462.1,27.0,Black,Drip,11,423.16,45.26
+Tamil Nadu,16.09,1455.4,24.1,Laterite,Flood,12,2450.18,36.32
+Bihar,35.53,1378.7,30.7,Black,Sprinkler,17,10279.53,42.46
+Bihar,10.89,1720.4,36.7,Laterite,Flood,16,2670.89,31.42
+Karnataka,34.0,1062.0,36.7,Black,Drip,11,4893.84,37.77
+Bihar,48.53,1741.3,26.2,Laterite,Sprinkler,15,9211.8,38.43
+Uttar Pradesh,5.6,1720.9,29.5,Black,Flood,18,1452.03,44.65
+Karnataka,33.96,2095.2,23.8,Laterite,Flood,13,7111.65,35.41
+Bihar,22.74,2217.2,37.9,Alluvial,Flood,18,5229.98,37.26
+Maharashtra,43.54,1548.8,37.7,Laterite,Drip,11,10917.81,31.99
+Uttar Pradesh,9.68,1314.0,31.7,Black,Sprinkler,11,2172.21,41.32
+Uttar Pradesh,34.94,1240.9,34.5,Black,Drip,18,7268.07,41.08
+Uttar Pradesh,42.07,1130.9,32.9,Red,Drip,16,10514.25,39.71
+Karnataka,47.29,898.0,30.7,Laterite,Drip,16,11610.29,34.33
+Bihar,34.48,1382.2,21.0,Alluvial,Sprinkler,10,7791.6,39.16
+Bihar,25.36,1259.4,28.2,Laterite,Drip,15,4360.85,41.16
+Maharashtra,31.27,2442.9,32.1,Laterite,Drip,16,5664.95,38.37
+Maharashtra,43.58,1748.1,32.2,Alluvial,Drip,15,12816.34,45.26
+Uttar Pradesh,28.96,1390.4,26.7,Laterite,Drip,15,3546.94,39.7
+Maharashtra,2.49,1786.8,37.0,Alluvial,Flood,11,382.72,31.38
+Karnataka,46.62,1036.6,23.0,Alluvial,Drip,15,9253.15,39.96
+Bihar,34.79,1554.9,29.0,Laterite,Flood,13,9300.97,36.78
+Uttar Pradesh,34.15,1864.6,32.4,Laterite,Drip,18,4532.9,37.84
+Maharashtra,11.57,1631.1,32.5,Black,Sprinkler,10,1797.87,39.17
+Karnataka,33.29,1483.0,31.7,Black,Flood,17,3767.08,37.77
+Karnataka,20.3,2489.5,25.0,Red,Flood,14,4896.3,38.91
+Maharashtra,32.91,2296.5,22.8,Red,Flood,10,4858.89,33.51
+Bihar,6.22,1859.8,31.4,Laterite,Flood,13,1105.51,38.36
+Maharashtra,33.23,1767.9,30.8,Alluvial,Sprinkler,10,6271.84,47.53
+Uttar Pradesh,49.97,1855.1,23.2,Red,Drip,15,13904.79,42.82
+Maharashtra,3.36,1142.2,32.7,Laterite,Flood,11,612.41,33.91
+Karnataka,48.88,1471.7,28.2,Red,Sprinkler,14,6307.72,34.43
+Maharashtra,20.94,867.1,32.0,Alluvial,Flood,16,4289.83,31.75
+Bihar,43.67,1608.4,35.1,Laterite,Drip,11,12777.48,42.32
+Tamil Nadu,39.34,1723.1,23.1,Alluvial,Flood,15,8715.27,40.68
+Maharashtra,28.78,1187.2,20.3,Laterite,Sprinkler,15,8538.38,36.88
+Bihar,37.18,2438.8,34.0,Red,Drip,14,9972.47,46.49
+Bihar,44.05,2346.1,31.0,Black,Sprinkler,14,4721.86,40.05
+Karnataka,20.8,2027.6,32.6,Red,Drip,12,4818.94,43.31
+Bihar,17.02,1706.8,35.1,Red,Drip,11,2678.15,40.09
+Bihar,33.71,2278.9,34.5,Black,Drip,16,7143.94,45.63
+Bihar,40.58,1022.1,37.3,Black,Flood,10,6325.17,28.71
+Bihar,38.35,2143.9,29.6,Laterite,Sprinkler,15,6510.84,40.33
+Uttar Pradesh,40.09,1012.2,28.8,Laterite,Sprinkler,15,11410.97,34.49
+Uttar Pradesh,22.34,2150.2,27.2,Alluvial,Sprinkler,12,3157.28,44.59
+Karnataka,41.07,1268.8,22.8,Alluvial,Drip,11,11286.93,42.09
+Maharashtra,6.89,2291.1,30.3,Red,Flood,11,730.97,35.82
+Bihar,27.68,2404.9,25.0,Black,Drip,18,3271.09,49.72
+Maharashtra,1.28,1053.0,36.6,Alluvial,Sprinkler,14,346.8,36.7
+Maharashtra,16.9,1586.5,30.5,Red,Flood,16,3821.28,35.44
+Karnataka,18.96,2467.7,30.7,Black,Flood,14,4729.52,46.28
+Bihar,20.41,1621.8,26.4,Laterite,Flood,16,2895.84,32.09
+Bihar,35.08,2268.0,20.9,Red,Sprinkler,13,7276.18,36.43
+Tamil Nadu,20.04,1800.8,20.6,Laterite,Flood,17,4958.77,27.41
+Maharashtra,22.99,1438.1,27.6,Alluvial,Flood,16,5183.39,38.82
+Maharashtra,12.64,1285.8,21.5,Alluvial,Drip,14,2456.45,36.67
+Uttar Pradesh,19.29,1145.5,30.9,Black,Drip,15,5631.85,44.86
+Tamil Nadu,12.14,2095.1,35.9,Red,Flood,14,2855.71,36.83
+Uttar Pradesh,4.59,1457.1,35.9,Laterite,Flood,16,1292.32,28.66
+Uttar Pradesh,30.57,1669.2,31.9,Black,Drip,11,7518.82,46.59
+Uttar Pradesh,33.74,1637.0,23.8,Alluvial,Drip,14,8336.91,41.21
+Karnataka,31.36,1781.4,35.5,Alluvial,Drip,12,3637.87,37.99
+Karnataka,23.71,2271.5,35.9,Red,Sprinkler,18,4075.58,34.86
+Uttar Pradesh,19.61,2467.3,23.5,Laterite,Sprinkler,15,5327.52,43.79
+Tamil Nadu,43.3,1492.9,33.3,Red,Drip,12,6344.35,36.66
+Maharashtra,26.44,2206.8,25.2,Laterite,Flood,16,3254.8,34.56
+Tamil Nadu,24.48,2099.7,34.4,Laterite,Drip,13,4044.62,35.76
+Bihar,2.26,1775.0,38.0,Red,Sprinkler,12,325.64,30.19
+Karnataka,17.72,2425.3,20.5,Black,Flood,17,5051.22,48.79
+Maharashtra,19.63,1140.8,36.2,Red,Sprinkler,13,5370.64,31.19
+Maharashtra,20.54,985.7,31.2,Red,Flood,10,4106.7,32.99
+Bihar,29.43,2251.7,37.5,Alluvial,Sprinkler,15,3304.07,36.14
+Bihar,27.15,1546.6,28.4,Alluvial,Flood,10,6595.07,42.8
+Uttar Pradesh,30.79,2239.8,35.3,Red,Flood,14,6917.97,39.05
+Karnataka,38.48,2318.3,21.1,Red,Flood,16,11317.39,38.35
+Karnataka,40.84,906.2,26.0,Alluvial,Flood,15,8649.53,37.52
+Tamil Nadu,36.19,2301.9,21.2,Laterite,Sprinkler,11,6053.82,43.86
+Uttar Pradesh,47.82,1562.1,37.6,Red,Sprinkler,13,9745.92,33.71
+Uttar Pradesh,1.89,1667.7,34.7,Black,Flood,11,559.16,44.56
+Uttar Pradesh,10.59,1865.2,35.3,Black,Flood,10,2533.9,40.17
+Uttar Pradesh,1.37,2374.9,36.9,Black,Sprinkler,12,321.12,39.57
+Karnataka,32.73,832.5,21.5,Red,Flood,12,4848.5,27.27
+Karnataka,45.0,1610.6,26.9,Laterite,Flood,16,11192.42,35.45
+Uttar Pradesh,12.93,1969.1,21.3,Laterite,Flood,10,3233.2,32.37
+Tamil Nadu,46.42,2028.6,23.8,Alluvial,Drip,18,7587.71,43.7
+Maharashtra,3.95,1977.3,24.1,Red,Flood,15,777.13,36.38
+Maharashtra,46.79,1028.5,28.4,Laterite,Drip,13,7435.9,32.64
+Tamil Nadu,18.23,1309.0,24.8,Red,Flood,12,2766.24,40.17
+Uttar Pradesh,5.97,1409.8,21.8,Alluvial,Sprinkler,12,627.92,36.28
+Karnataka,24.81,2167.5,23.0,Alluvial,Drip,11,3896.22,44.65
+Maharashtra,13.58,1273.9,22.7,Alluvial,Drip,11,2862.58,40.2
+Bihar,14.96,1158.2,37.5,Black,Flood,14,1500.79,32.17
+Bihar,16.06,2427.7,33.7,Red,Flood,18,2515.7,43.13
+Tamil Nadu,40.35,815.1,37.4,Alluvial,Drip,11,11147.98,37.91
+Uttar Pradesh,27.42,2496.3,27.9,Red,Sprinkler,11,5997.57,46.02
+Maharashtra,16.25,1950.6,25.0,Black,Sprinkler,15,3600.55,48.57
+Uttar Pradesh,30.91,2208.4,34.4,Black,Flood,11,5584.6,40.18
+Maharashtra,36.09,1300.9,25.9,Alluvial,Sprinkler,13,8491.78,41.69
+Tamil Nadu,14.36,824.3,25.4,Alluvial,Sprinkler,15,1981.49,37.21
+Tamil Nadu,21.26,2054.4,24.2,Laterite,Flood,14,5607.31,36.24
+Bihar,6.97,2218.0,22.3,Red,Sprinkler,10,859.66,30.42
+Uttar Pradesh,9.88,2058.8,24.6,Alluvial,Flood,15,2284.26,40.46
+Bihar,34.37,1042.8,26.4,Laterite,Drip,10,5782.06,37.54
+Uttar Pradesh,9.89,2080.8,32.1,Red,Flood,12,2467.58,41.0
+Bihar,26.73,2107.2,21.1,Alluvial,Drip,14,5612.04,47.65
+Karnataka,35.74,1919.5,23.8,Laterite,Drip,14,6807.42,37.88
+Karnataka,6.24,2102.4,34.6,Laterite,Sprinkler,15,835.44,38.29
+Karnataka,28.8,2238.1,22.6,Red,Sprinkler,17,6548.09,40.68
+Karnataka,13.57,1843.1,26.2,Laterite,Sprinkler,14,4002.53,42.48
+Maharashtra,48.18,950.6,35.6,Red,Flood,10,12773.51,32.49
+Karnataka,24.69,1629.0,22.8,Red,Sprinkler,14,2765.32,29.03
+Tamil Nadu,40.49,932.0,21.5,Red,Drip,12,7095.71,29.83
+Tamil Nadu,27.96,1492.8,28.7,Black,Sprinkler,13,7971.86,42.04
+Maharashtra,3.13,1492.1,25.4,Laterite,Sprinkler,17,627.91,38.31
+Karnataka,32.02,912.2,30.1,Red,Flood,16,7442.16,32.05
+Karnataka,47.62,1393.0,34.5,Alluvial,Flood,14,13453.6,42.92
+Karnataka,30.48,988.7,22.5,Black,Drip,11,8374.65,40.99
+Bihar,41.14,2174.0,30.5,Black,Flood,15,8242.98,38.84
+Uttar Pradesh,44.33,2411.1,29.1,Laterite,Sprinkler,15,8313.17,39.4
+Bihar,12.18,922.9,22.6,Red,Flood,15,2045.49,28.81
+Uttar Pradesh,11.39,2423.7,31.2,Laterite,Drip,18,2776.93,46.04
+Karnataka,30.94,1688.4,24.9,Black,Sprinkler,17,4869.87,37.62
+Karnataka,21.14,1309.3,28.8,Red,Drip,17,3170.52,40.62
+Bihar,42.15,930.7,21.5,Alluvial,Flood,10,7218.19,33.23
+Bihar,45.1,1651.1,28.3,Red,Flood,14,6108.48,34.01
+Uttar Pradesh,18.32,2150.7,25.5,Black,Drip,16,4378.92,55.18
+Tamil Nadu,12.61,2002.0,34.8,Alluvial,Sprinkler,15,2815.16,38.87
+Uttar Pradesh,39.25,885.4,21.0,Red,Flood,14,7715.6,24.81
+Bihar,14.47,923.9,27.5,Alluvial,Flood,17,2576.6,31.1
+Bihar,41.31,1484.9,28.3,Alluvial,Sprinkler,12,11641.67,47.99
+Maharashtra,21.76,1302.0,33.1,Black,Flood,15,2302.75,33.18
+Bihar,33.71,1195.1,30.3,Alluvial,Drip,14,8556.32,41.71
+Maharashtra,5.68,1277.7,32.0,Laterite,Flood,17,1592.57,28.66
+Tamil Nadu,31.57,2165.9,34.0,Black,Flood,13,5975.28,38.91
+Uttar Pradesh,23.14,2379.7,35.5,Laterite,Sprinkler,17,4862.6,43.93
+Uttar Pradesh,29.74,1488.7,25.6,Alluvial,Drip,11,8591.67,39.45
+Maharashtra,9.23,2340.4,29.7,Laterite,Sprinkler,18,1314.86,37.26
+Uttar Pradesh,37.11,1346.5,35.1,Red,Flood,18,7571.44,36.1
+Bihar,43.28,1609.9,37.8,Alluvial,Flood,15,8437.19,36.61
+Karnataka,11.62,1184.2,36.0,Red,Sprinkler,13,1762.5,27.74
+Maharashtra,5.69,1888.8,26.7,Laterite,Sprinkler,13,1500.56,41.02
+Uttar Pradesh,2.16,2464.3,23.5,Red,Sprinkler,15,604.63,45.17
+Maharashtra,32.46,1825.9,28.8,Alluvial,Drip,14,8322.31,48.61
+Maharashtra,30.75,1408.3,33.3,Red,Flood,15,4276.46,35.94
+Karnataka,27.79,1901.3,28.9,Laterite,Sprinkler,16,3261.15,37.43
+Bihar,12.37,1009.0,28.7,Laterite,Flood,16,2734.87,35.73
+Maharashtra,20.15,2310.7,35.1,Laterite,Drip,18,2245.09,37.27
+Uttar Pradesh,30.13,1655.2,26.5,Alluvial,Drip,17,7067.45,39.87
+Tamil Nadu,25.34,1563.9,35.5,Laterite,Drip,15,5222.19,31.19
+Maharashtra,49.4,1796.0,27.3,Alluvial,Drip,15,11488.32,44.44
+Maharashtra,7.69,1862.1,25.9,Red,Flood,14,1676.68,37.49
+Karnataka,35.06,922.0,28.2,Laterite,Drip,10,6469.99,42.34
+Bihar,20.81,1960.4,33.7,Red,Drip,18,2917.05,39.69
+Tamil Nadu,21.98,1211.3,22.3,Black,Sprinkler,18,3541.87,35.42
+Uttar Pradesh,36.16,2013.7,23.5,Red,Drip,18,7409.19,45.54
+Tamil Nadu,34.93,2198.3,37.1,Black,Sprinkler,17,8046.95,36.67
+Uttar Pradesh,49.57,2166.7,23.2,Red,Drip,12,12684.79,42.57
+Bihar,7.29,1739.3,30.2,Alluvial,Drip,10,1847.53,44.57
+Uttar Pradesh,6.1,1684.3,30.4,Red,Sprinkler,17,1796.68,42.42
+Karnataka,36.49,1042.9,28.8,Alluvial,Drip,16,5735.07,43.22
+Karnataka,29.34,2118.1,31.6,Alluvial,Flood,14,3351.28,39.87
+Karnataka,14.43,1261.4,24.1,Laterite,Flood,16,2440.57,31.18
+Karnataka,4.89,1644.4,29.9,Alluvial,Drip,13,1215.94,44.92
+Tamil Nadu,5.2,1283.3,26.7,Black,Flood,18,975.64,39.45
+Bihar,44.82,1027.5,31.9,Laterite,Sprinkler,11,11812.66,30.63
+Uttar Pradesh,10.4,1870.2,22.5,Laterite,Drip,18,2182.6,40.34
+Uttar Pradesh,16.85,892.4,30.3,Red,Drip,18,4818.4,37.79
+Karnataka,12.11,2072.7,23.3,Alluvial,Sprinkler,14,3506.73,41.2
+Karnataka,18.39,1339.9,25.0,Alluvial,Sprinkler,10,2093.9,36.37
+Maharashtra,4.4,800.2,23.9,Black,Sprinkler,16,841.64,29.72
+Bihar,26.43,1668.9,23.3,Red,Drip,13,5865.82,44.53
+Tamil Nadu,4.31,879.6,34.9,Red,Sprinkler,18,651.56,30.88
+Uttar Pradesh,40.22,1269.5,25.1,Laterite,Sprinkler,15,7296.53,33.95
+Maharashtra,12.45,2001.9,36.7,Laterite,Flood,12,2932.43,27.45
+Maharashtra,27.46,906.6,37.5,Laterite,Flood,15,3991.22,20.3
+Uttar Pradesh,44.12,2226.9,30.3,Black,Drip,15,9723.88,49.45
+Tamil Nadu,32.89,806.5,22.6,Black,Flood,14,7876.81,33.11
+Maharashtra,27.11,1219.6,26.7,Laterite,Flood,11,3201.67,24.95
+Maharashtra,16.89,2059.5,34.4,Red,Sprinkler,11,3369.65,33.47
+Bihar,17.32,1337.7,26.6,Black,Sprinkler,16,2643.31,38.84
+Tamil Nadu,33.8,973.2,21.6,Red,Flood,11,8276.85,26.42
+Maharashtra,49.71,1412.4,30.0,Red,Flood,15,6855.56,37.33
+Tamil Nadu,33.43,1259.7,35.2,Alluvial,Flood,14,9308.5,36.84
+Uttar Pradesh,28.33,2232.6,34.3,Laterite,Drip,13,5274.71,36.73
+Karnataka,36.8,1332.7,23.2,Alluvial,Drip,16,5137.3,42.05
+Maharashtra,23.8,2141.2,32.1,Laterite,Drip,17,4464.98,43.3
+Bihar,3.95,2316.2,24.0,Laterite,Flood,13,717.91,37.22
+Uttar Pradesh,28.55,1537.5,23.9,Red,Flood,10,5304.13,33.6
+Tamil Nadu,47.92,2346.9,35.7,Laterite,Drip,10,10404.02,38.74
+Uttar Pradesh,9.59,1441.4,24.5,Red,Drip,10,1958.61,37.56
+Maharashtra,34.81,2438.9,24.7,Red,Flood,10,4523.75,34.08
+Tamil Nadu,10.85,951.8,20.0,Laterite,Sprinkler,14,1227.31,29.49
+Karnataka,27.26,1967.9,35.7,Red,Drip,13,6702.77,38.66
+Uttar Pradesh,5.74,1639.5,34.3,Red,Flood,18,1216.56,33.44
+Maharashtra,23.07,1459.0,31.3,Red,Flood,12,3963.43,30.74
+Bihar,38.05,1875.6,33.5,Black,Sprinkler,16,9956.6,42.13
+Tamil Nadu,18.03,1996.6,22.7,Red,Flood,17,3202.34,43.82
+Uttar Pradesh,33.58,807.4,28.2,Black,Flood,15,8703.7,36.48
+Uttar Pradesh,39.98,1083.8,26.3,Black,Drip,10,6442.83,45.52
+Karnataka,46.43,2012.2,21.7,Red,Drip,17,5319.44,37.59
+Karnataka,12.5,1932.9,28.8,Red,Sprinkler,12,3581.6,45.79
+Bihar,20.57,2442.3,36.6,Black,Sprinkler,17,3680.18,45.07
+Bihar,8.47,2093.8,20.7,Black,Flood,13,2189.82,41.5
+Maharashtra,49.63,2416.3,25.2,Red,Drip,17,7733.78,43.08
+Maharashtra,46.42,1994.3,23.7,Red,Sprinkler,10,10642.85,39.05
+Bihar,27.46,1306.7,24.3,Laterite,Sprinkler,12,7542.22,34.86
+Bihar,42.26,979.1,36.4,Black,Sprinkler,15,4577.98,36.2
+Tamil Nadu,26.53,2129.1,28.4,Black,Flood,18,7060.35,42.19
+Karnataka,31.56,1895.1,28.4,Laterite,Drip,11,6762.25,37.37
+Maharashtra,5.37,881.9,33.7,Black,Sprinkler,10,1189.42,30.46
+Karnataka,38.01,1412.1,22.8,Alluvial,Drip,12,7778.05,37.97
+Karnataka,7.26,2426.6,28.8,Black,Sprinkler,13,1995.74,52.47
+Bihar,41.48,1650.7,27.7,Laterite,Sprinkler,14,4508.32,37.41
+Tamil Nadu,39.32,1535.6,30.7,Alluvial,Drip,12,5984.73,40.0
+Uttar Pradesh,35.73,1578.1,38.0,Red,Drip,11,9831.2,36.84
+Tamil Nadu,2.77,1155.1,33.9,Laterite,Drip,11,693.8,31.58
+Tamil Nadu,15.85,1426.8,27.2,Laterite,Flood,16,1640.94,28.16
+Karnataka,13.89,1428.7,34.9,Red,Sprinkler,18,2825.24,35.09
+Tamil Nadu,18.65,889.0,23.1,Laterite,Flood,11,3840.31,30.93
+Maharashtra,5.29,2104.9,20.5,Black,Drip,16,953.13,41.8
+Karnataka,46.91,1508.1,23.7,Red,Sprinkler,16,7481.14,39.5
+Maharashtra,28.14,2197.7,26.1,Laterite,Flood,16,6650.75,41.85
+Uttar Pradesh,15.97,2245.6,29.2,Red,Sprinkler,12,2260.68,45.74
+Karnataka,20.45,1160.4,31.1,Red,Flood,16,5312.7,33.57
+Uttar Pradesh,22.91,1917.5,36.4,Red,Drip,10,5970.52,44.37
+Karnataka,30.43,1602.9,29.2,Alluvial,Flood,10,5570.28,45.89
+Bihar,26.27,2296.3,29.0,Laterite,Sprinkler,14,4116.76,38.64
+Tamil Nadu,46.05,1166.8,20.9,Alluvial,Sprinkler,11,7219.52,32.76
+Bihar,25.35,1952.3,20.6,Laterite,Sprinkler,18,4980.22,31.04
+Uttar Pradesh,49.62,1833.2,29.9,Black,Sprinkler,16,12103.1,41.56
+Tamil Nadu,42.72,1302.0,27.9,Black,Drip,13,7338.17,40.69
+Karnataka,11.22,1032.2,35.1,Black,Flood,13,2490.94,30.94
+Tamil Nadu,46.6,1907.8,22.9,Laterite,Drip,11,8224.76,38.69
+Maharashtra,6.7,2055.6,20.4,Red,Drip,14,1078.06,35.97
+Tamil Nadu,41.06,1336.6,28.1,Red,Drip,13,4310.15,39.02
+Maharashtra,19.65,1896.2,24.3,Alluvial,Sprinkler,10,1980.38,39.44
+Tamil Nadu,44.02,1471.7,20.9,Alluvial,Sprinkler,17,6402.34,33.3
+Maharashtra,43.53,2012.5,33.0,Black,Sprinkler,12,7891.17,41.53
+Uttar Pradesh,40.49,1138.7,22.0,Alluvial,Flood,15,10942.51,33.76
+Bihar,39.71,2313.4,30.9,Laterite,Sprinkler,13,10312.56,40.62
+Karnataka,15.93,1288.6,25.1,Laterite,Flood,18,2444.19,27.79
+Tamil Nadu,4.97,1425.2,23.1,Alluvial,Sprinkler,16,740.07,36.55
+Bihar,20.75,898.8,26.8,Alluvial,Sprinkler,18,3018.39,34.2
+Karnataka,9.5,989.6,34.4,Alluvial,Drip,12,1594.55,32.55
+Karnataka,35.05,1677.0,27.1,Alluvial,Drip,10,6997.37,47.31
+Maharashtra,17.96,1254.9,33.5,Black,Drip,14,3371.69,41.84
+Uttar Pradesh,48.8,2220.3,22.3,Black,Flood,12,7010.35,42.61
+Uttar Pradesh,32.41,825.0,33.9,Alluvial,Flood,15,4086.59,26.14
+Bihar,41.3,1444.5,24.3,Laterite,Sprinkler,17,4233.89,29.54
+Uttar Pradesh,7.49,1373.5,32.2,Black,Flood,13,979.64,35.7
+Tamil Nadu,43.24,832.9,30.2,Laterite,Sprinkler,14,10423.92,31.16
+Uttar Pradesh,46.22,1011.4,36.7,Red,Flood,14,6874.19,27.48
+Bihar,24.87,1503.2,27.0,Laterite,Flood,13,4817.83,35.72
+Uttar Pradesh,30.71,1637.9,21.2,Alluvial,Flood,13,6702.77,37.57
+Tamil Nadu,38.48,1487.3,20.3,Red,Drip,13,10673.13,42.66
+Maharashtra,9.57,1702.6,34.9,Black,Flood,13,2658.27,41.16
+Bihar,25.63,1811.7,29.4,Black,Drip,13,6385.63,48.89
+Maharashtra,20.53,816.9,34.0,Red,Drip,14,2197.35,29.93
+Maharashtra,8.17,1589.0,24.2,Laterite,Flood,11,1756.67,32.77
+Maharashtra,19.01,2437.9,26.2,Black,Sprinkler,11,4891.59,45.91
+Karnataka,4.34,1682.4,20.5,Alluvial,Sprinkler,18,449.01,29.1
+Karnataka,2.26,1951.8,37.3,Red,Sprinkler,11,474.46,36.16
+Maharashtra,7.62,1330.2,32.0,Alluvial,Flood,15,2069.23,41.8
+Bihar,48.19,2115.8,36.8,Red,Sprinkler,11,9388.4,34.71
+Tamil Nadu,27.93,2114.0,24.8,Black,Drip,14,2815.94,49.11
+Tamil Nadu,48.33,1686.2,31.0,Laterite,Sprinkler,13,4939.46,32.45
+Uttar Pradesh,22.19,2459.2,32.2,Red,Flood,16,4068.03,33.23
+Bihar,16.28,1013.4,25.7,Red,Sprinkler,16,2132.71,35.13
+Karnataka,25.8,828.8,35.3,Alluvial,Drip,15,6008.57,34.88
+Maharashtra,22.54,2109.3,37.0,Black,Flood,14,5449.27,41.93
+Uttar Pradesh,6.18,2172.2,35.9,Alluvial,Sprinkler,10,837.86,34.15
+Tamil Nadu,32.4,1004.4,33.3,Black,Flood,12,8997.7,37.55
+Karnataka,11.59,1251.5,25.0,Alluvial,Flood,18,2183.34,33.56
+Karnataka,31.36,829.8,25.1,Red,Flood,10,4031.93,29.32
+Maharashtra,32.86,1298.6,37.3,Alluvial,Sprinkler,14,8308.66,37.44
+Tamil Nadu,8.45,2114.3,20.2,Laterite,Flood,11,2180.06,35.99
+Bihar,4.01,1680.5,32.9,Black,Sprinkler,13,913.71,41.41
+Karnataka,39.26,1391.8,32.7,Black,Drip,10,10627.41,39.78
+Maharashtra,23.53,1432.0,31.2,Red,Sprinkler,12,5823.08,39.85
+Bihar,3.85,802.3,37.8,Black,Drip,16,1064.3,39.56
+Tamil Nadu,49.75,1309.7,25.6,Laterite,Sprinkler,12,9292.19,30.61
+Karnataka,3.83,1899.0,26.1,Alluvial,Flood,13,955.66,39.87
+Bihar,35.06,2456.1,21.4,Red,Sprinkler,11,10516.26,45.88
+Bihar,49.2,2240.0,28.0,Laterite,Flood,12,12053.32,40.36
+Bihar,12.72,840.1,24.7,Black,Drip,18,1562.48,34.68
+Karnataka,7.97,2327.6,26.2,Black,Sprinkler,12,1623.2,47.65
+Karnataka,6.95,2131.4,35.0,Laterite,Flood,14,1511.41,32.0
+Uttar Pradesh,15.86,2126.6,36.8,Alluvial,Drip,11,2138.6,40.45
+Tamil Nadu,5.95,1578.6,23.3,Alluvial,Drip,13,1740.84,43.45
+Maharashtra,34.92,1476.6,26.7,Red,Sprinkler,16,4718.25,35.09
+Bihar,4.05,1315.0,36.7,Black,Drip,16,548.82,39.53
+Uttar Pradesh,25.96,911.7,21.1,Laterite,Flood,12,7347.55,21.24
+Maharashtra,49.84,1188.0,21.7,Alluvial,Drip,14,9621.17,39.74
+Uttar Pradesh,40.88,1219.2,22.9,Red,Drip,10,4604.63,36.65
+Karnataka,31.15,1622.9,30.7,Black,Flood,10,6841.71,38.5
+Bihar,16.01,2070.7,22.7,Black,Drip,14,3528.05,48.81
+Maharashtra,31.57,1605.5,37.4,Red,Drip,18,3564.26,29.82
+Maharashtra,26.83,898.3,28.0,Red,Drip,10,7901.56,39.44
+Maharashtra,21.88,2428.2,29.0,Alluvial,Drip,10,4568.68,47.91
+Maharashtra,7.4,2402.6,24.4,Laterite,Flood,13,1568.5,40.95
+Maharashtra,44.44,2134.8,28.5,Black,Drip,13,9066.79,44.49
+Uttar Pradesh,23.04,2485.3,31.9,Laterite,Flood,11,5118.25,43.58
+Bihar,10.54,1725.6,33.5,Black,Drip,18,1611.14,40.82
+Karnataka,19.02,2436.7,33.6,Black,Drip,18,2994.67,47.91
+Karnataka,21.29,928.5,30.4,Laterite,Drip,11,4306.28,36.51
+Karnataka,41.55,1421.7,36.3,Red,Drip,18,10858.56,37.38
+Karnataka,36.95,1183.1,34.7,Alluvial,Flood,15,4063.5,28.44
+Uttar Pradesh,38.7,1132.9,33.6,Black,Flood,17,8540.35,38.86
+Tamil Nadu,1.54,1039.4,21.0,Red,Flood,13,402.49,29.13
+Bihar,21.39,1858.1,20.1,Black,Sprinkler,11,2810.29,34.78
+Maharashtra,24.59,2128.2,23.8,Alluvial,Drip,11,2532.88,45.33
+Tamil Nadu,1.94,1783.1,31.9,Black,Drip,18,315.33,44.09
+Karnataka,13.73,1049.8,27.4,Alluvial,Flood,10,2988.04,41.62
+Tamil Nadu,38.25,2178.9,27.2,Alluvial,Sprinkler,16,4882.87,43.28
+Bihar,7.72,1881.1,35.9,Black,Drip,12,1429.93,39.77
+Maharashtra,27.23,1459.9,36.1,Black,Flood,12,5730.94,35.62
+Maharashtra,11.54,1946.0,36.4,Alluvial,Drip,11,2536.22,40.41
+Bihar,1.59,1241.8,25.6,Red,Drip,15,246.26,35.51
+Bihar,12.82,1386.8,32.4,Laterite,Flood,11,2307.68,32.9
+Karnataka,48.82,2359.7,24.9,Alluvial,Flood,13,12481.7,50.04
+Maharashtra,40.28,1293.9,23.4,Black,Drip,18,11610.43,43.19
+Tamil Nadu,48.02,1599.0,23.3,Black,Drip,18,13079.5,42.28
+Uttar Pradesh,24.9,2313.2,26.2,Red,Flood,15,5300.13,40.56
+Uttar Pradesh,6.38,2003.1,27.7,Laterite,Drip,13,1161.53,43.98
+Bihar,27.85,905.7,35.0,Alluvial,Drip,16,4639.57,35.8
+Karnataka,23.26,1050.4,22.2,Alluvial,Flood,10,2907.3,34.19
+Uttar Pradesh,42.37,813.3,33.2,Laterite,Drip,13,5139.92,31.55
+Maharashtra,5.81,1872.6,29.6,Alluvial,Drip,14,1380.87,43.98
+Bihar,24.92,1561.0,25.2,Laterite,Sprinkler,17,3786.82,32.4
+Tamil Nadu,8.35,1028.3,28.9,Black,Flood,11,1260.29,32.04
+Bihar,16.91,2428.5,25.4,Laterite,Sprinkler,14,5066.9,47.11
+Tamil Nadu,37.13,1700.4,30.7,Alluvial,Sprinkler,15,5108.54,33.39
+Bihar,24.32,1211.2,27.8,Laterite,Sprinkler,14,3152.16,29.35
+Bihar,19.42,1651.0,23.0,Red,Drip,18,2325.29,35.16
+Bihar,20.33,1955.4,22.1,Black,Drip,10,4390.49,46.38
+Tamil Nadu,23.51,929.6,29.8,Black,Sprinkler,12,5303.22,37.54
+Tamil Nadu,39.47,1267.0,36.2,Laterite,Sprinkler,11,6830.11,27.34
+Bihar,44.71,2171.8,26.2,Alluvial,Sprinkler,12,9258.67,43.97
+Uttar Pradesh,47.81,1581.4,33.2,Red,Drip,18,12319.68,40.78
+Karnataka,39.56,1729.2,31.9,Black,Sprinkler,18,10428.84,39.7
+Karnataka,16.45,1535.8,36.8,Black,Sprinkler,11,4796.53,36.28
+Karnataka,34.72,874.6,34.8,Alluvial,Flood,12,9195.72,38.0
+Tamil Nadu,22.44,1081.8,30.2,Alluvial,Flood,13,4779.01,37.53
+Tamil Nadu,13.48,1557.4,31.8,Red,Drip,18,1832.36,39.86
+Uttar Pradesh,42.2,1155.6,36.2,Laterite,Flood,12,5062.0,24.35
+Karnataka,2.88,885.0,27.2,Alluvial,Flood,16,319.4,32.78
+Karnataka,45.19,2234.2,25.9,Laterite,Flood,12,10543.06,40.3
+Bihar,23.61,2468.0,20.2,Red,Drip,16,6174.19,45.8
+Tamil Nadu,32.22,2148.3,34.9,Laterite,Flood,16,6499.96,36.16
+Karnataka,33.31,2251.4,34.4,Black,Drip,18,3695.51,42.54
+Uttar Pradesh,44.86,1211.4,21.9,Laterite,Sprinkler,11,9290.24,33.67
+Uttar Pradesh,32.2,2433.1,30.4,Red,Flood,15,9246.23,36.09
+Karnataka,31.08,1134.8,28.4,Red,Drip,18,6822.76,42.95
+Tamil Nadu,4.27,2417.4,22.1,Red,Flood,11,1118.25,38.56
+Uttar Pradesh,26.4,2491.2,37.7,Laterite,Sprinkler,11,6864.81,38.85
+Bihar,8.36,2009.9,23.9,Black,Drip,14,2394.52,46.62
+Uttar Pradesh,37.13,2467.9,21.2,Alluvial,Drip,17,9432.72,43.21
+Maharashtra,26.1,1768.2,30.7,Black,Drip,18,6513.0,48.15
+Maharashtra,34.33,1241.2,33.3,Laterite,Sprinkler,11,5040.35,25.31
+Tamil Nadu,3.04,1542.9,20.6,Laterite,Sprinkler,14,340.43,27.7
+Karnataka,5.15,1809.1,31.9,Alluvial,Sprinkler,16,1048.13,38.6
