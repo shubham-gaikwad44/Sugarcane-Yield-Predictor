@@ -78,7 +78,7 @@ The prediction engine relies on a pre-trained model (`models/yield_model.pkl`). 
 If you'd like to use the tool purely via the command line instead of the web UI, you can also run:
 ```bash
 python src/yield_prediction.py
-```
+___
 
 ---
 
